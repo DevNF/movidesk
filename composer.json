@@ -1,0 +1,19 @@
+{
+    "name": "nfpanel/movidesk",
+    "description": "Biblioteca base para comunicaçao com a API do Movidesk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NFPanel\\Movidesk\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
